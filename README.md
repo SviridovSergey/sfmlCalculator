@@ -1,1 +1,2 @@
-# sfmlCalculator
+# sfmlCalculator  
+Stack:c++,sfml
